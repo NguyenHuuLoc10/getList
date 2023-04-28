@@ -1,0 +1,21 @@
+[
+{
+"id":1,
+"name":"Quang",
+"Bietdanh":"Con Cho"
+"age":"19"
+"namsinh":"10/02/2003"
+},
+"id":2,
+"name":"Cuong",
+"Bietdanh":"Con Lon"
+"age":"20"
+"namsinh":"10/03/2003"
+},
+"id":3,
+"name":"Hung",
+"Bietdanh":"Con Heo"
+"age":"20"
+"namsinh":"10/04/2003"
+}
+]
